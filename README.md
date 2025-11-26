@@ -4,9 +4,9 @@
 
 - <b>Microsoft Azure</b>
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/stbranescu/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protols)
-  - [Configuring VMs on the same network to use within AD environments](https://github.com/joshmadakorcc/azure-network-protocols)
-  -   - [Creating AD infrastructure and management through OUs and GPOs](https://github.com/joshmadakorcc/azure-network-protocols)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protols)
+- [Configuring VMs on the same network to use within AD environments](https://github.com/joshmadakorcc/azure-network-protocols)
+- [Creating AD infrastructure and management through OUs and GPOs](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
